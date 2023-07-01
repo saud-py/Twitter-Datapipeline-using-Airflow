@@ -14,7 +14,7 @@ Before running this project, make sure you have the following prerequisites inst
 ## Installation
 
 **Step 1:** Clone the repository
-```bash
+bash
 git clone https://github.com/your-username/twitter-data-pipeline.git
 
 Step 2: Install the required dependencies
